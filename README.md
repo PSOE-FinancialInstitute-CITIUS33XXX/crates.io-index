@@ -1,0 +1,3 @@
+# crates.io-index
+Registry index for crates.io
+0a89e2ae426ea83155dccf10c0fa6b1463ef6d5fcb44cee0b224a408fa640a62
